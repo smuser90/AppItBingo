@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://uploads-ssl.webflow.com/5e7ba52a10d3fcda082425b9/5ec561beb2f85b5f236c6fac_blue_appit_logo.svg" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
